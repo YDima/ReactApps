@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mozilla",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/1200px-Firefox_logo%2C_2019.svg.png",
+    "opis": "Mozilla is an open source browser"
+  },
+  {
+    "name": "Safari",
+    "image": "https://imazing.com/img/visual/safari/safari-icon.png",
+    "opis": "Safari is an Apple browser"
+  },
+  {
+    "name": "Google",
+    "image": "https://blog.hubspot.com/hubfs/image8-2.jpg",
+    "opis": "Google is the most popular browser"
+  }
+]
